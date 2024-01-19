@@ -3,14 +3,14 @@ A very personal mod to me. To be my magnum opus. Split into 3 co-operate parts, 
 
 To be barren for now, more just testing grounds
 
-#Compilation Instructions
+# Compilation Instructions
 
 Download AtlusScriptCompiler, and drag FIELD.BF.flow into the corresponding box, then rename the new file to FIELD.BF
 
 Then use R2
 It should work as an ordinary mod, set Persona essentials and FEmulator as dependencies (or use included .json file)
 
-#I'll add credit to tools if and when I use them on the project
+# I'll add credit to tools if and when I use them on the project
 
 Extracted CPK's :
 
