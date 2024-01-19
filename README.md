@@ -1,4 +1,4 @@
-# Personal Persona Mod
+# Personal Persona Mod -- T-R2-P5
 A very personal mod to me. To be my magnum opus. Split into 3 co-operate parts, T-R2-P5, N-R2-P4 and A-Ae-P3
 
 To be barren for now, more just testing grounds
